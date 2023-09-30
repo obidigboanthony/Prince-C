@@ -1,0 +1,201 @@
+
+
+.loginbox{
+    background: silver;
+    width: 40%;
+    text-align: center;
+    box-shadow: 10px 10px  #e8d2d2;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+h2{
+    padding-top: 20px;
+}
+
+input[type="text"], input[type="password"] {
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    width: 220px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+input[type="text"]:hover,
+input[type="password"]:hover {
+    border-bottom: 2px solid green;
+}
+
+input[type="text"]:focus,
+input[type="password"]:focus{
+    background: lightblue;
+}
+
+.btn{
+    background: lightgreen;
+    border: none;
+    width: 70px;
+    height: 40px;
+    border-radius: 30px;
+}
+.btn:hover{
+    background: black;
+    color: lightgreen;
+}
+
+a{
+    text-decoration: none;
+    color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .loginbox {
+    border-style: 2px solid;
+    font-family: 'Lato', sans-serif;
+    background-image: url("green-leaves-white-background_53876-88575.jpg");
+    text-align: center;
+    border-radius: 9px;
+    border-style: inset ridge;
+    font-size: 17px;
+  position: absolute;
+  left: 30%;
+  right: 17px;
+  top: 17%;
+  text-decoration: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+  display: block;
+    width: 20%;
+    }
+
+        .btn {
+            background-color: rgba(35, 201, 57, 0.685);
+            border-radius: 20px;
+            padding: 11px;
+    
+        }
+                a:-webkit-any-link {
+                    color: -webkit-link;
+                    cursor: pointer;
+                    text-decoration: none;
+                } */
+
+
+
+
+
+
+
+
+
+
+
+
+                                /* body {
+                    margin: 20%;
+                    font-size: 100%;
+                   color: #4A4A4A;
+                  display: flex;
+                  justify-content: center;
+                  align-items: center;
+                  min-height: 100vh;
+                  overflow: hidden;
+                  margin: 0;
+                  padding: 0; 
+                } */
+  /* display: block; */
+  /* color: #888888; */
+  /* content: " "; */
+
+  /* padding: 3px 7px; */
+  /* margin: 3px 7px; */
+ 
+
+
+
+/* div {
+    width: 100%; 
+    margin: auto;
+    
+} */
+
+/* h2 {
+    text-decoration: none;
+} */
+ /* @media screen and (max-width:700px) {
+    .responsive {
+        width: 49.99999%;
+        margin: 6px 0;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .responsive {
+        width: 100%;
+    }
+} */
+
+ /* * {
+    box-sizing: border-box;
+} */
